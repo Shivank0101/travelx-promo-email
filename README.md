@@ -15,7 +15,7 @@ This project is a responsive promotional email built for a fictional travel cred
 - Call-to-Action button styled for maximum clicks
 
 ## 🔍 Preview
-![Email Preview](preview.png) <!-- Add screenshot if available -->
+![Email Preview](preview.jpeg) <!-- Add screenshot if available -->
 
 ## 📬 Use Case
 This email could be used by marketing teams to promote new credit card launches, limited-time offers, or loyalty programs.
