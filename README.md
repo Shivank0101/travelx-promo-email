@@ -38,4 +38,4 @@ This email could be used by marketing teams to promote new credit card launches,
 ---
 
 ## 📸 Screenshots
-You can add a screenshot named `preview.png` of your design in the repo for better visibility.
+You can add a screenshot named `preview.jpeg` of your design in the repo for better visibility.
